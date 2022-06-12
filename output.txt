@@ -1,0 +1,13 @@
+SET
+customer_id|first_name|last_name|email_address|home_phone|city|state_name|years_old
+1|Edward|Lewis|Edward.Lewis@example.com|202-555-0264|Pittsburgh|Pennsylvania|82
+2|Frances|Campbell|Frances.Campbell@example.com|202-555-0073|North Las Vegas|Nevada|10
+3|Dennis|Hall|Dennis.Hall@example.com|202-555-0424|Chula Vista|California|21
+4|Arthur|Turner|Arthur.Turner@example.com|202-555-0205|Fort Wayne|Indiana|49
+5|Nathan|Cooper|Nathan.Cooper@example.com|202-555-0410|Durham|North Carolina|72
+6|Rachel|Scott|Rachel.Scott@example.com|202-555-0299|San Francisco|California|50
+7|Jeffrey|Cook|Jeffrey.Cook@example.com|202-555-0398|Jersey city|New Jersey|66
+8|Ann|Peterson|Ann.Peterson@example.com|202-555-0149|Laredo|Texas|66
+9|Sandra|Nelson|Sandra.Nelson@example.com|202-555-0932|Anchorage|Alaska|34
+10|Scott|Flores|Scott.Flores@example.com|202-555-0473|New Orleans|Louisiana|63
+(10 rows)
